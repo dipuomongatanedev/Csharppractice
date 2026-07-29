@@ -4,7 +4,7 @@ this repository contains my C# practice exercises, coding challenges and mini pr
 
 The purpose of this repository is to document my learning journey and continuously improve my programming skills 
 
-## Topica covered 
+## Topics covered 
 - Variables and data types
 - user input and output
 - Arithmetic operators
